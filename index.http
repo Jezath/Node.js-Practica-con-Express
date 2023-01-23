@@ -1,0 +1,10 @@
+POST http://localhost:3000/api/cursos/programacion 
+Content-Type: application/json
+
+{
+    "id:" 4,
+    "titulo": 'Aprende Node.js',
+    "lenguaje": 'Node.js',
+    "vistas": 12523,
+    "nivel": 'basico'
+}
